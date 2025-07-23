@@ -6,7 +6,7 @@ I have experience in implementing ETL processes, data quality monitoring applica
 
 what you currently need to know about me:
 - 🔭 I’m currently working how data engineer
-- 🌱 I’m currently learning scala, spark framework and studying specialization in analytics and data science
+- 🌱 I’m currently learning scala, spark framework and studying master in analytics and data science
 - 💬 Ask me about python, aws services, math and music 🤭
 - 📫 How to reach me: sebastiantorres8800@gmail.com
 - ⚡ Fun fact: i love music i follow more than 500 artists on spotify
