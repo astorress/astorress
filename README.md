@@ -16,6 +16,9 @@ Before moving into AI, I worked as a data engineer building ETL/ELT pipelines, I
 **Tech stack**
 
 **AI & ML:** Amazon Bedrock · Amazon SageMaker · LangChain · PyTorch · TensorFlow · Keras · Scikit-learn
+
 **Cloud & Architecture:** AWS (Lambda, SQS, SNS, S3, DynamoDB, Aurora) · Serverless Framework · Docker · Event-Driven Architecture
+
 **Data:** Python · SQL · PostgreSQL · MySQL · MongoDB · Pandas · NumPy · Spark · Power BI
+
 **Software:** Python · TypeScript · JavaScript · Vue.js · Node.js · REST / GraphQL / WebSocket
