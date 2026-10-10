@@ -1,6 +1,6 @@
 ### Hi, I'm Sebastian 👋
 
-Electrical engineer turned **Software & AI Solutions Engineer**. I design and build AI systems (LLM agents, RAG applications, and ML/DL pipelines) on event-driven, serverless AWS architectures, and I'm pursuing a master's in Applied Artificial Intelligence focused on electricity demand forecasting.
+Electrical engineer turned **Software & AI Solutions Engineer**. I design and build AI systems (LLM agents, RAG applications, and ML/DL pipelines) on event-driven, serverless AWS architectures, and a master's in Applied Artificial Intelligence focused on time series forecasting.
 
 Before moving into AI, I worked as a data engineer building ETL/ELT pipelines, IoT and smart metering integrations, and enterprise analytics. My power systems background keeps my models grounded in real physical systems.
 
