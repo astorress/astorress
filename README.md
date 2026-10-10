@@ -24,18 +24,24 @@ Before moving into AI, I worked as a data engineer building ETL/ELT pipelines, I
 
 #### AI & Machine Learning
 
-![AI & ML](https://skillicons.dev/icons?i=pytorch,tensorflow,keras,sklearn,pandas,numpy,jupyter)
+![AI & ML](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)
 
-![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon SageMaker](https://img.shields.io/badge/Amazon_SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge)
+![Amazon SageMaker](https://img.shields.io/badge/Amazon_SageMaker-232F3E?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 #### Cloud & Architecture
 
-![Cloud](https://skillicons.dev/icons?i=aws,serverless,docker,linux,yaml)
+![Cloud](https://skillicons.dev/icons?i=aws,docker,linux)
+
+![Serverless Framework](https://img.shields.io/badge/Serverless_Framework-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
 AWS Lambda · SQS · SNS · S3 · DynamoDB · Aurora · Event-Driven Architecture
-
 #### Backend & APIs
 
 ![Backend](https://skillicons.dev/icons?i=py,nodejs,graphql)
@@ -48,8 +54,15 @@ REST · GraphQL · WebSocket
 
 #### Data Engineering & Databases
 
-![Data](https://skillicons.dev/icons?i=postgres,mysql,mongodb,elasticsearch,spark,hadoop,powerbi)
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb)
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 #### Tools
 
-![Tools](https://skillicons.dev/icons?i=git,github,gitlab,jira,vscode,selenium)
+![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vscode,selenium)
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
