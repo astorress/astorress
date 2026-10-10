@@ -4,11 +4,6 @@ Electrical engineer turned **Software & AI Solutions Engineer**. I design and bu
 
 Before moving into AI, I worked as a data engineer building ETL/ELT pipelines, IoT and smart metering integrations, and enterprise analytics. My power systems background keeps my models grounded in real physical systems.
 
-## Connect with me
-
-- [LinkedIn](https://www.linkedin.com/in/anderson-sebastian-torres-sanchez/)
-- 📫 sebastiantorres8800@gmail.com
-
 ## What I'm up to
 
 - 🔭 Building AI agents, chatbots, and MLOps workflows with Amazon Bedrock and SageMaker
